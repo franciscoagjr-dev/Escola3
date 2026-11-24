@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/btn_disciplinas_pressed" />
+            <stroke android:width="3dp" android:color="@color/btn_stroke_pressed" />
+            <corners android:radius="24dp" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="0"
+                android:startColor="@color/btn_disciplinas"
+                android:endColor="@color/btn_disciplinas_light" />
+            <corners android:radius="24dp" />
+        </shape>
+    </item>
+</selector>

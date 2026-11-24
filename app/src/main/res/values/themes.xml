@@ -1,0 +1,24 @@
+<resources>
+    <style name="Theme.Escola" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+    <style name="Theme.Escola.Main" parent="Theme.Escola">
+        <item name="android:statusBarColor">@color/main_top</item>
+    </style>
+    <style name="Theme.Escola.Disciplinas" parent="Theme.Escola">
+        <item name="android:statusBarColor">@color/btn_disciplinas</item>
+    </style>
+    <style name="Theme.Escola.Alunos" parent="Theme.Escola">
+        <item name="android:statusBarColor">@color/btn_alunos</item>
+    </style>
+    <style name="Theme.Escola.Notas" parent="Theme.Escola">
+        <item name="android:statusBarColor">@color/btn_notas</item>
+    </style>
+    <style name="Theme.Escola.Matriculas" parent="Theme.Escola">
+        <item name="android:statusBarColor">@color/btn_matriculas</item>
+    </style>
+</resources>

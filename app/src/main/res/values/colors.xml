@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="accent">#FF8F00</color>
+    <color name="background">#EAF1FB</color>
+    <color name="card">#FFFFFF</color>
+    <color name="card_border">#C5D5EA</color>
+    <color name="text_title">#0D47A1</color>
+    <color name="text_secondary">#455A64</color>
+    <color name="white">#FFFFFF</color>
+    <color name="btn_disciplinas">#1565C0</color>
+    <color name="btn_alunos">#00897B</color>
+    <color name="btn_notas">#EF6C00</color>
+    <color name="btn_matriculas">#6A1B9A</color>
+    <color name="mencao_mb">#2E7D32</color>
+    <color name="mencao_b">#1565C0</color>
+    <color name="mencao_r">#EF6C00</color>
+    <color name="mencao_i">#C62828</color>
+    <color name="ativa">#2E7D32</color>
+    <color name="trancada">#C62828</color>
+    <color name="btn_disciplinas_pressed">#0D47A1</color>
+    <color name="btn_alunos_pressed">#00574B</color>
+    <color name="btn_notas_pressed">#B53D00</color>
+    <color name="btn_matriculas_pressed">#38006B</color>
+    <color name="btn_stroke_pressed">#FFB300</color>
+    <color name="icon_background">#1565C0</color>
+    <color name="btn_disciplinas_light">#42A5F5</color>
+    <color name="btn_alunos_light">#26A69A</color>
+    <color name="btn_notas_light">#FFA726</color>
+    <color name="btn_matriculas_light">#AB47BC</color>
+    <color name="main_top">#1A237E</color>
+    <color name="main_mid">#3949AB</color>
+    <color name="main_bottom">#0097A7</color>
+</resources>
